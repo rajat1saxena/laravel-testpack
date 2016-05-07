@@ -1,0 +1,11 @@
+{
+    "name": "rajat/testpack",
+    "description": "Test package for Laravel. Just for learning purposes",
+    "authors": [
+        {
+            "name": "Rajat Saxena",
+            "email": "rajat@raynstudios.in"
+        }
+    ],
+    "require": {}
+}
