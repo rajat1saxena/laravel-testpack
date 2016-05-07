@@ -9,7 +9,7 @@ This is the a simple Laravel package, which I use a playground to upgrade my Lar
 `Raynstudios\Testpack\TestPackServiceProvider::class,`
 
 2. Update composer.json to include psr-4 clause.
-`"Raynstudios\\Testpack\\": "path/to/testpack/src"`
+`"Raynstudios\\Testpack\\": "path/to/laravel-testpack/src"`
 
 3. Run
 `composer update`
